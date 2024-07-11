@@ -1,1 +1,1 @@
-# Amazon-clone-front-end
+# Amazon-clone-front-end - using HTML, CSS
